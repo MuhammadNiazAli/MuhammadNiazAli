@@ -125,11 +125,3 @@ I specialize in building **production-ready applications**, **advanced UI/3D exp
 
 ---
 
-<div align="center">
-  
-### ⚙️ **Visitor Count**
-![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadNiazAli&color=blue&style=flat-square)
-
-**Thanks for visiting!** ✨
-
-</div>
