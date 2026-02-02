@@ -14,13 +14,13 @@ Passionate about **advanced animations**, **3D graphics**, and **modern frontend
 - Full Stack Web Projects at **eTechViral**  
 - Advanced UI animations & Web 3D graphics  
 - Scalable software architecture & maintainable backend APIs  
-- Open-source collaborations & innovative web solutions
+- Open-source collaborations & innovative web solutions  
 
 ---
 
 ## 📚 Writing & Articles
 Sharing insights on modern web development:  
-[Medium](https://medium.com/@mrniazali132)
+- [Medium](https://medium.com/@mrniazali132)
 
 ---
 
@@ -33,7 +33,7 @@ Sharing insights on modern web development:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadNiazAli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mrniazali132)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/32170082/muhammad-niaz-ali)
+[![Stack%20Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/32170082/muhammad-niaz-ali)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/14XDJo1L3vP/)
 
 ---
@@ -41,52 +41,63 @@ Sharing insights on modern web development:
 ## 💻 Tech Stack
 
 ### 🧩 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs)](https://nuxt.com/)
+
+---
 
 ### 🎨 Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+[![Tailwind%20CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
+
+---
 
 ### 🎬 Animation & 3D
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=for-the-badge)
-![Babylon.js](https://img.shields.io/badge/Babylon.js-5C2D91?style=for-the-badge)
-![WebGL](https://img.shields.io/badge/WebGL-0080FF?style=for-the-badge)
-![GLSL](https://img.shields.io/badge/GLSL-263238?style=for-the-badge)
-![PlayCanvas](https://img.shields.io/badge/PlayCanvas-FF6600?style=for-the-badge)
-![A-Frame](https://img.shields.io/badge/A--Frame-2D2D2D?style=for-the-badge)
-![Lenis](https://img.shields.io/badge/Lenis-00CFFF?style=for-the-badge)
-![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge)
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock)](https://gsap.com/)
+[![Framer%20Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)](https://threejs.org/)
+[![React%20Three%20Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=for-the-badge)](https://docs.pmnd.rs/react-three-fiber/)
+[![Babylon.js](https://img.shields.io/badge/Babylon.js-5C2D91?style=for-the-badge)](https://www.babylonjs.com/)
+[![WebGL](https://img.shields.io/badge/WebGL-0080FF?style=for-the-badge)](https://www.khronos.org/webgl/)
+[![GLSL](https://img.shields.io/badge/GLSL-263238?style=for-the-badge)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
+[![PlayCanvas](https://img.shields.io/badge/PlayCanvas-FF6600?style=for-the-badge)](https://playcanvas.com/)
+[![A--Frame](https://img.shields.io/badge/A--Frame-2D2D2D?style=for-the-badge)](https://aframe.io/)
+[![Lenis](https://img.shields.io/badge/Lenis-00CFFF?style=for-the-badge)](https://github.com/darkroomengineering/lenis)
+[![Locomotive%20Scroll](https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge)](https://locomotivemtl.github.io/locomotive-scroll/)
+
+---
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
+[![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify)](https://fastify.dev/)
+
+---
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+
+---
 
 ### 🚀 DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
+
+---
 
 ### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
+[![Stack%20Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/)
 
 ---
 
 ## 🌟 Featured Projects
-
 **E-Commerce Platform**  
 Secure, scalable full-stack platform with product management and payments.
 
