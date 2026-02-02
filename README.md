@@ -14,16 +14,10 @@ Passionate about **advanced animations**, **3D graphics**, and **modern frontend
 - Full Stack Web Projects at **eTechViral**  
 - Advanced UI animations & Web 3D graphics  
 - Scalable software architecture & maintainable backend APIs  
-- Open-source collaborations & innovative web solutions  
+- Open-source collaborations & innovative web solutions
 
----
 
-## 📚 Writing & Articles
-Sharing insights on modern web development:  
-- [Medium](https://medium.com/@mrniazali132)
-
----
-
+  
 ## 💌 Contact
 - **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)
 - **Phone:** [+92 320 8050617](tel:+923208050617)
@@ -40,7 +34,7 @@ Sharing insights on modern web development:
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32170082/muhammad-niaz-ali)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089496256834)
 
----
+
 
 ## 💻 Tech Stack
 
