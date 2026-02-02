@@ -26,100 +26,115 @@ Sharing insights on modern web development:
 
 ## 💌 Contact
 - **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)
+- **Phone:** [+92 320 8050617](tel:+923208050617)
 
 ---
 
 ## 🌍 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadNiazAli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mrniazali132)
-[![Stack%20Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/32170082/muhammad-niaz-ali)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/14XDJo1L3vP/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadNiazAli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1467823592090636302/1467823593227419783)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923208050617)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mrniazali132)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32170082/muhammad-niaz-ali)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14XDJo1L3vP/)
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🧩 Frontend
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs)](https://nuxt.com/)
-
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ### 🎨 Styling & UI
-[![Tailwind%20CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
 
 ### 🎬 Animation & 3D
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock)](https://gsap.com/)
-[![Framer%20Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)](https://threejs.org/)
-[![React%20Three%20Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=for-the-badge)](https://docs.pmnd.rs/react-three-fiber/)
-[![Babylon.js](https://img.shields.io/badge/Babylon.js-5C2D91?style=for-the-badge)](https://www.babylonjs.com/)
-[![WebGL](https://img.shields.io/badge/WebGL-0080FF?style=for-the-badge)](https://www.khronos.org/webgl/)
-[![GLSL](https://img.shields.io/badge/GLSL-263238?style=for-the-badge)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
-[![PlayCanvas](https://img.shields.io/badge/PlayCanvas-FF6600?style=for-the-badge)](https://playcanvas.com/)
-[![A--Frame](https://img.shields.io/badge/A--Frame-2D2D2D?style=for-the-badge)](https://aframe.io/)
-[![Lenis](https://img.shields.io/badge/Lenis-00CFFF?style=for-the-badge)](https://github.com/darkroomengineering/lenis)
-[![Locomotive%20Scroll](https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge)](https://locomotivemtl.github.io/locomotive-scroll/)
-
----
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 
 ### ⚙️ Backend
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
-[![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify)](https://fastify.dev/)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
----
 
 ### 🗄️ Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-### 🚀 DevOps
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
-
----
-
-### 🛠️ Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
-[![Stack%20Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/)
-
----
-
-## 🌟 Featured Projects
-**E-Commerce Platform**  
-Secure, scalable full-stack platform with product management and payments.
-
-**SaaS Analytics Dashboard**  
-Modern dashboard with animated charts, role-based access, and clean UX.
-
-**Interactive Portfolio**  
-Immersive portfolio with advanced animations and 3D elements.
-
----
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNiazAli&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&theme=dark)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNiazAli&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNiazAli&theme=dark&hide_border=true&background=0D1117)
+  
+</div>
+
+---
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNiazAli&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
 
 ---
 
 ## 🤝 Collaboration
-I help build production-ready applications, advanced UI/3D experiences, and clean backend systems.  
-Connect via **LinkedIn** or **Email** to discuss collaboration.
+I specialize in building **production-ready applications**, **advanced UI/3D experiences**, and **scalable backend systems**.  
+
+**I'm open to:**
+- 🚀 Full-stack development projects
+- 🎨 Complex UI/UX implementations
+- 🔧 Performance optimization
+- 🤝 Open-source contributions
+- 💼 Freelance/Contract work
+
+**Let's connect to discuss:**
+- Web application development
+- 3D web experiences
+- API development & integration
+- Technical consultation
+
+**Best ways to reach me:**
+1. **WhatsApp:** [+92 320 8050617](https://wa.me/923208050617) (Fastest response)
+2. **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)
+3. **LinkedIn:** [Muhammad Niaz Ali](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
+
+
+## ⚡ Fun Facts
+- 🎮 Sometimes I dive so deep into animations that hours disappear — turns out smooth UI bends space-time
+- ☕ I believe coffee and code are the perfect pair
+- 🎨 I enjoy creating shader effects and 3D models in my free time
+- 📚 Currently reading about WebGL optimization techniques
+- 🎵 Coding with lo-fi beats in the background is my productivity hack
 
 ---
 
-### ⚡ Fun Fact
-Sometimes I dive so deep into animations that hours disappear — turns out smooth UI bends space-time 😉
+<div align="center">
+  
+### ⚙️ **Visitor Count**
+![Visitor Count](https://komarev.com/ghpvc/?username=MuhammadNiazAli&color=blue&style=flat-square)
+
+**Thanks for visiting!** ✨
+
+</div>
