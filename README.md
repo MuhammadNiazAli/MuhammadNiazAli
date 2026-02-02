@@ -1,23 +1,26 @@
-# Hi 👋, I'm Muhammad Niaz Ali  
-### Full Stack Web Developer | JavaScript, TypeScript & Modern Web Technologies 💙
+<div align="center">
+
+# Hi, I'm Muhammad Niaz Ali 👋  
+### Full Stack Web Developer | JavaScript, TypeScript & Modern Web Technologies
+
+</div>
 
 ---
 
 ## 🚀 About Me
-I build **high-performance, scalable web applications** and **interactive digital experiences**.  
-I focus on **clean architecture**, **performance optimization**, and **pixel-perfect UI**.  
-Passionate about **advanced animations**, **3D graphics**, and **modern frontend engineering**.
+I build scalable web applications with clean UI, strong performance, and maintainable backend systems.  
+I work with modern JavaScript and TypeScript stacks, focusing on code clarity and shipping stable features.
 
 ---
 
 ## 🔭 Currently Working On
-- Full Stack Web Projects at **eTechViral**  
-- Advanced UI animations & Web 3D graphics  
-- Scalable software architecture & maintainable backend APIs  
-- Open-source collaborations & innovative web solutions
+- Full Stack Web Projects at **eTechViral**
+- Advanced UI animations and Web 3D experiences
+- Scalable backend APIs and maintainable architecture
+- Open-source collaboration and continuous improvement
 
+---
 
-  
 ## 💌 Contact
 - **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)
 - **Phone:** [+92 320 8050617](tel:+923208050617)
@@ -34,7 +37,7 @@ Passionate about **advanced animations**, **3D graphics**, and **modern frontend
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32170082/muhammad-niaz-ali)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089496256834)
 
-
+---
 
 ## 💻 Tech Stack
 
@@ -72,13 +75,13 @@ Passionate about **advanced animations**, **3D graphics**, and **modern frontend
 
 ## 📊 GitHub Stats
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)
-  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNiazAli&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)
-  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNiazAli&theme=dark&hide_border=true&background=0D1117)
-  
+
 </div>
 
 ---
@@ -94,34 +97,10 @@ Passionate about **advanced animations**, **3D graphics**, and **modern frontend
 ---
 
 ## 🤝 Collaboration
-I specialize in building **production-ready applications**, **advanced UI/3D experiences**, and **scalable backend systems**.  
-
-**I'm open to:**
-- 🚀 Full-stack development projects
-- 🎨 Complex UI/UX implementations
-- 🔧 Performance optimization
-- 🤝 Open-source contributions
-- 💼 Freelance/Contract work
-
-**Let's connect to discuss:**
-- Web application development
-- 3D web experiences
-- API development & integration
-- Technical consultation
+I’m available for full-stack development, UI-heavy builds, and backend/API work.  
+I prefer clear scope, clean deliverables, and stable long-term code.
 
 **Best ways to reach me:**
-1. **WhatsApp:** [+92 320 8050617](https://wa.me/923208050617) (Fastest response)
+1. **WhatsApp:** [+92 320 8050617](https://wa.me/923208050617)
 2. **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)
 3. **LinkedIn:** [Muhammad Niaz Ali](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
-
----
-
-## ⚡ Fun Facts
-- 🎮 Sometimes I dive so deep into animations that hours disappear — turns out smooth UI bends space-time
-- ☕ I believe coffee and code are the perfect pair
-- 🎨 I enjoy creating shader effects and 3D models in my free time
-- 📚 Currently reading about WebGL optimization techniques
-- 🎵 Coding with lo-fi beats in the background is my productivity hack
-
----
-
