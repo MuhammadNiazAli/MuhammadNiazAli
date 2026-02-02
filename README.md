@@ -33,6 +33,7 @@ Sharing insights on modern web development:
 ## 🌍 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadNiazAli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ali_niaz92115)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1467823592090636302/1467823593227419783)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923208050617)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mrniazali132)
@@ -55,7 +56,6 @@ Sharing insights on modern web development:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-
 ### 🎬 Animation & 3D
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
@@ -69,12 +69,12 @@ Sharing insights on modern web development:
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
-
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -120,6 +120,7 @@ I specialize in building **production-ready applications**, **advanced UI/3D exp
 2. **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)
 3. **LinkedIn:** [Muhammad Niaz Ali](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
 
+---
 
 ## ⚡ Fun Facts
 - 🎮 Sometimes I dive so deep into animations that hours disappear — turns out smooth UI bends space-time
