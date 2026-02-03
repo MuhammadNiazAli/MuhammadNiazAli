@@ -3,6 +3,8 @@
 # Hi, I'm Muhammad Niaz Ali 👋  
 ### Full Stack Web Developer | JavaScript, TypeScript & Modern Web Technologies
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Modern+Web;UI+Focused+%7C+Performance+Driven;Build+Clean+%26+Scalable+Apps" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -31,6 +33,7 @@ I work with modern JavaScript and TypeScript stacks, focusing on code clarity an
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadNiazAli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ali_niaz92115)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Inevitable_Meal_184/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1467823592090636302/1467823593227419783)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923208050617)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mrniazali132)
