@@ -1,43 +1,76 @@
 <div align="center">
 
-# Hi, I'm Muhammad Niaz Ali <img src="https://em-content.zobj.net/source/microsoft-teams/337/grinning-face_1f600.png" width="30" alt="hello" />
+# Hi, I'm Muhammad Niaz Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="hello" />
 ### Full-Stack Web Developer | JavaScript, TypeScript, React | API-First Web Apps
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Performance+Focused+%7C+Clean+Code;APIs+%7C+Auth+%7C+Databases;Dashboards+%7C+Admin+Panels+%7C+3D+Web" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="34" alt="sparkles" />
 
 </div>
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png" width="25" alt="about" /> About Me
-I build functional, high-performance web apps with clean UI and reliable backend workflows.  
-I focus on scalable APIs, authentication, database design, and stable feature delivery.
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="34" alt="gear" /><br/>
+<b>API-first</b><br/>
+Stable routes, clear contracts.
+</td>
+<td align="center" width="220">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="34" alt="lock" /><br/>
+<b>Auth</b><br/>
+Secure flows, clean sessions.
+</td>
+<td align="center" width="220">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="34" alt="docs" /><br/>
+<b>DX</b><br/>
+Readable code, easy upgrades.
+</td>
+<td align="center" width="220">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" alt="rocket" /><br/>
+<b>Delivery</b><br/>
+Fast shipping, fewer surprises.
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/check-mark-button_2705.png" width="25" alt="what-i-build" /> What I Build
-- Dashboards, admin panels, and data-driven UIs  
-- REST APIs, auth flows, and integrations  
-- Database-backed systems with clear structure  
-- Interactive 3D web experiences (when needed)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="about" /> About Me
+I build functional web apps with clean UI and reliable backend workflows.  
+I focus on scalable APIs, authentication, database design, and steady delivery.
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/telescope_1f52d.png" width="25" alt="working" /> Currently Working On
-- Full-stack projects at **eTechViral**
-- API design, auth, and maintainable architecture
-- Performance, code clarity, and better DX
-- Open-source work and consistent learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" alt="what-i-build" /> What I Build
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Dashboards, admin panels, data-driven UIs  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="20" alt="api" /> REST APIs, auth flows, integrations  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="20" alt="db" /> Database-backed systems with clear structure  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="3d" /> Interactive 3D web experiences (when needed)
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/envelope_2709-fe0f.png" width="25" alt="contact" /> Contact
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="26" alt="working" /> Currently Working On
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" alt="star" /> Full-stack projects at **eTechViral**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" alt="lock" /> API design, auth, maintainable architecture
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Performance, code clarity, better DX
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="sparkles" /> Open-source work and consistent learning
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="26" alt="contact" /> Contact
 - **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)  
 - **Phone:** [+92 320 8050617](https://wa.me/923208050617)
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/link_1f517.png" width="16" alt="connect" /> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="22" alt="connect" /> Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadNiazAli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ali_niaz92115)
@@ -50,7 +83,7 @@ I focus on scalable APIs, authentication, database design, and stable feature de
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/desktop-computer_1f5a5-fe0f.png" width="25" alt="tech" /> Tech Stack (Badges link to official sites)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="26" alt="tech" /> Tech Stack (Badges link to official sites)
 
 <div align="center">
 
@@ -82,7 +115,7 @@ I focus on scalable APIs, authentication, database design, and stable feature de
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/chart-increasing_1f4c8.png" width="25" alt="stats" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="26" alt="stats" /> GitHub Stats
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)
@@ -93,19 +126,19 @@ I focus on scalable APIs, authentication, database design, and stable feature de
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/beating-heart_1f493.png" width="25" alt="activity" /> Activity Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="26" alt="activity" /> Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNiazAli&theme=github-dark&hide_border=true&bg_color=0D1117)
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/trophy_1f3c6.png" width="25" alt="trophies" /> GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" alt="trophies" /> GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
 
 ---
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/337/handshake_1f91d.png" width="25" alt="collab" /> Collaboration
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="26" alt="collab" /> Collaboration
 I’m open to full-stack work, API development, dashboards, and database-backed systems.  
-I like clear scope, clean delivery, and long-term maintainable code.
+I like clear scope, clean delivery, and code that stays easy to maintain.
 
 **Best ways to reach me:**
 1. **WhatsApp:** [+92 320 8050617](https://wa.me/923208050617)  
