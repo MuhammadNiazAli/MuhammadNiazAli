@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Muhammad Niaz Ali <img src="https://api.iconify.design/octicon/smiley-16.svg?color=%23ffffff" width="30" alt="hello" />
+# Hi, I'm Muhammad Niaz Ali <img src="https://em-content.zobj.net/source/microsoft-teams/337/grinning-face_1f600.png" width="30" alt="hello" />
 ### Full-Stack Web Developer | JavaScript, TypeScript, React | API-First Web Apps
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Performance+Focused+%7C+Clean+Code;APIs+%7C+Auth+%7C+Databases;Dashboards+%7C+Admin+Panels+%7C+3D+Web" alt="Typing SVG" />
@@ -9,13 +9,13 @@
 
 ---
 
-## <img src="https://api.iconify.design/octicon/rocket-16.svg?color=%23ffffff" width="25" alt="about" /> About Me
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png" width="25" alt="about" /> About Me
 I build functional, high-performance web apps with clean UI and reliable backend workflows.  
 I focus on scalable APIs, authentication, database design, and stable feature delivery.
 
 ---
 
-## <img src="https://api.iconify.design/octicon/check-circle-16.svg?color=%23ffffff" width="25" alt="what-i-build" /> What I Build
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/check-mark-button_2705.png" width="25" alt="what-i-build" /> What I Build
 - Dashboards, admin panels, and data-driven UIs  
 - REST APIs, auth flows, and integrations  
 - Database-backed systems with clear structure  
@@ -23,7 +23,7 @@ I focus on scalable APIs, authentication, database design, and stable feature de
 
 ---
 
-## <img src="https://api.iconify.design/octicon/telescope-16.svg?color=%23ffffff" width="25" alt="working" /> Currently Working On
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/telescope_1f52d.png" width="25" alt="working" /> Currently Working On
 - Full-stack projects at **eTechViral**
 - API design, auth, and maintainable architecture
 - Performance, code clarity, and better DX
@@ -31,13 +31,13 @@ I focus on scalable APIs, authentication, database design, and stable feature de
 
 ---
 
-## <img src="https://api.iconify.design/octicon/mail-16.svg?color=%23ffffff" width="25" alt="contact" /> Contact
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/envelope_2709-fe0f.png" width="25" alt="contact" /> Contact
 - **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)  
 - **Phone:** [+92 320 8050617](https://wa.me/923208050617)
 
 ---
 
-## <img src="https://api.iconify.design/octicon/link-16.svg?color=%23ffffff" width="16" alt="connect" /> Connect With Me
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/link_1f517.png" width="16" alt="connect" /> Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadNiazAli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ali_niaz92115)
@@ -50,7 +50,7 @@ I focus on scalable APIs, authentication, database design, and stable feature de
 
 ---
 
-## <img src="https://api.iconify.design/octicon/cpu-16.svg?color=%23ffffff" width="25" alt="tech" /> Tech Stack (Badges link to official sites)
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/desktop-computer_1f5a5-fe0f.png" width="25" alt="tech" /> Tech Stack (Badges link to official sites)
 
 <div align="center">
 
@@ -82,7 +82,7 @@ I focus on scalable APIs, authentication, database design, and stable feature de
 
 ---
 
-## <img src="https://api.iconify.design/octicon/graph-16.svg?color=%23ffffff" width="25" alt="stats" /> GitHub Stats
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/chart-increasing_1f4c8.png" width="25" alt="stats" /> GitHub Stats
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)
@@ -93,17 +93,17 @@ I focus on scalable APIs, authentication, database design, and stable feature de
 
 ---
 
-## <img src="https://api.iconify.design/octicon/pulse-16.svg?color=%23ffffff" width="25" alt="activity" /> Activity Graph
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/beating-heart_1f493.png" width="25" alt="activity" /> Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNiazAli&theme=github-dark&hide_border=true&bg_color=0D1117)
 
 ---
 
-## <img src="https://api.iconify.design/octicon/trophy-16.svg?color=%23ffffff" width="25" alt="trophies" /> GitHub Trophies
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/trophy_1f3c6.png" width="25" alt="trophies" /> GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
 
 ---
 
-## <img src="https://api.iconify.design/octicon/people-16.svg?color=%23ffffff" width="25" alt="collab" /> Collaboration
+## <img src="https://em-content.zobj.net/source/microsoft-teams/337/handshake_1f91d.png" width="25" alt="collab" /> Collaboration
 I’m open to full-stack work, API development, dashboards, and database-backed systems.  
 I like clear scope, clean delivery, and long-term maintainable code.
 
