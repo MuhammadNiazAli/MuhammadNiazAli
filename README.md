@@ -83,8 +83,7 @@ I focus on scalable APIs, authentication, database design, and steady delivery.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="26" alt="tech" /> Tech Stack (Badges link to official sites)
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="26" alt="tech" /> Tech Stack
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -110,6 +109,7 @@ I focus on scalable APIs, authentication, database design, and steady delivery.
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=ffffff)](https://supabase.com/)
 
 </div>
 
@@ -137,7 +137,7 @@ I focus on scalable APIs, authentication, database design, and steady delivery.
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="26" alt="collab" /> Collaboration
-I’m open to full-stack work, API development, dashboards, and database-backed systems.  
+I'm open to full-stack work, API development, dashboards, and database-backed systems.  
 I like clear scope, clean delivery, and code that stays easy to maintain.
 
 **Best ways to reach me:**
