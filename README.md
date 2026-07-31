@@ -3,7 +3,7 @@
 # Hi, I'm Muhammad Niaz Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="hello" />
 ### Full-Stack Web Developer | JavaScript, TypeScript, React | API-First Web Apps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Performance+Focused+%7C+Clean+Code;APIs+%7C+Auth+%7C+Databases;AI+Agents+%7C+Automation+%7C+n8n;Dashboards+%7C+Admin+Panels+%7C+3D+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=FFC107&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Performance+Focused+%7C+Clean+Code;APIs+%7C+Auth+%7C+Databases;AI+Agents+%7C+Automation+%7C+n8n;Dashboards+%7C+Admin+Panels+%7C+3D+Web" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="34" alt="sparkles" />
 
@@ -51,8 +51,8 @@ I am a full stack web developer who builds fast and reliable web applications wi
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Dashboards admin panels and data driven UIs  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="20" alt="api" /> REST APIs auth flows and integrations  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="20" alt="db" /> Database backed systems with clear structure  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" alt="ai-agent" /> AI agents and automation workflows using n8n and LangChain  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" alt="react-native" /> Cross platform mobile apps with React Native  
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f916.png" width="20" alt="ai-agent" /> AI agents and automation workflows using n8n and LangChain  
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f1.png" width="20" alt="react-native" /> Cross platform mobile apps with React Native  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="3d" /> Interactive 3D web experiences when needed
 
 ---
@@ -60,8 +60,8 @@ I am a full stack web developer who builds fast and reliable web applications wi
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="26" alt="working" /> Currently Working On
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" alt="star" /> Full-stack projects at **eTechViral**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" alt="lock" /> API design auth and maintainable architecture
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" alt="ai" /> AI agent automation using n8n and LangChain
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" alt="mobile" /> React Native app development
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f916.png" width="20" alt="ai" /> AI agent automation using n8n and LangChain
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f1.png" width="20" alt="mobile" /> React Native app development
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Performance code clarity and better DX
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="sparkles" /> Open-source work and consistent learning
 
@@ -133,21 +133,21 @@ I am a full stack web developer who builds fast and reliable web applications wi
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="26" alt="stats" /> GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNiazAli&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNiazAli&theme=dark&hide_border=true&background=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFC107&icon_color=FFC107&text_color=E8E8E8&ring_color=FFC107)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNiazAli&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFC107&text_color=E8E8E8&langs_count=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNiazAli&hide_border=true&background=0D1117&ring=FFC107&fire=FFC107&currStreakLabel=FFC107)
 
 </div>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="26" alt="activity" /> Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNiazAli&theme=github-dark&hide_border=true&bg_color=0D1117)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNiazAli&hide_border=true&bg_color=0D1117&color=FFC107&point=FFC107&line=FFC107&area=true&area_color=FFC107&title_color=FFC107)
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" alt="trophies" /> GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
 
 ---
 
