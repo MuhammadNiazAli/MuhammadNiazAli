@@ -3,7 +3,7 @@
 # Hi, I'm Muhammad Niaz Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="hello" />
 ### Full-Stack Web Developer | JavaScript, TypeScript, React | API-First Web Apps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Performance+Focused+%7C+Clean+Code;APIs+%7C+Auth+%7C+Databases;Dashboards+%7C+Admin+Panels+%7C+3D+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Performance+Focused+%7C+Clean+Code;APIs+%7C+Auth+%7C+Databases;AI+Agents+%7C+Automation+%7C+n8n;Dashboards+%7C+Admin+Panels+%7C+3D+Web" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="34" alt="sparkles" />
 
@@ -18,22 +18,22 @@
 <td align="center" width="220">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="34" alt="gear" /><br/>
 <b>API-first</b><br/>
-Stable routes, clear contracts.
+Stable routes clear contracts.
 </td>
 <td align="center" width="220">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="34" alt="lock" /><br/>
 <b>Auth</b><br/>
-Secure flows, clean sessions.
+Secure flows clean sessions.
 </td>
 <td align="center" width="220">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="34" alt="docs" /><br/>
 <b>DX</b><br/>
-Readable code, easy upgrades.
+Readable code easy upgrades.
 </td>
 <td align="center" width="220">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" alt="rocket" /><br/>
 <b>Delivery</b><br/>
-Fast shipping, fewer surprises.
+Fast shipping fewer surprises.
 </td>
 </tr>
 </table>
@@ -43,23 +43,26 @@ Fast shipping, fewer surprises.
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="about" /> About Me
-I build functional web apps with clean UI and reliable backend workflows.  
-I focus on scalable APIs, authentication, database design, and steady delivery.
+I am a full stack web developer who builds fast and reliable web applications with clean interfaces and solid backend systems. I specialize in scalable API development secure authentication flows and structured database design. I also build AI agent automation workflows using tools like n8n and LangChain to connect smart systems together and deliver real business value.
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" alt="what-i-build" /> What I Build
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Dashboards, admin panels, data-driven UIs  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="20" alt="api" /> REST APIs, auth flows, integrations  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="20" alt="db" /> Database-backed systems with clear structure  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="3d" /> Interactive 3D web experiences (when needed)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Dashboards admin panels and data driven UIs  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="20" alt="api" /> REST APIs auth flows and integrations  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="20" alt="db" /> Database backed systems with clear structure  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" alt="ai-agent" /> AI agents and automation workflows using n8n and LangChain  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" alt="react-native" /> Cross platform mobile apps with React Native  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="3d" /> Interactive 3D web experiences when needed
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="26" alt="working" /> Currently Working On
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" alt="star" /> Full-stack projects at **eTechViral**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" alt="lock" /> API design, auth, maintainable architecture
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Performance, code clarity, better DX
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" alt="lock" /> API design auth and maintainable architecture
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" alt="ai" /> AI agent automation using n8n and LangChain
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" alt="mobile" /> React Native app development
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Performance code clarity and better DX
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="sparkles" /> Open-source work and consistent learning
 
 ---
@@ -113,6 +116,16 @@ I focus on scalable APIs, authentication, database design, and steady delivery.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=ffffff)](https://supabase.com/)
 
+<br/>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=ffffff)](https://n8n.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=ffffff)](https://www.langchain.com/)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=ffffff)](https://github.com/MuhammadNiazAli)
+[![Automation](https://img.shields.io/badge/Automation-FF6D00?style=for-the-badge&logo=zapier&logoColor=ffffff)](https://github.com/MuhammadNiazAli)
+
 </div>
 
 ---
@@ -139,8 +152,7 @@ I focus on scalable APIs, authentication, database design, and steady delivery.
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="26" alt="collab" /> Collaboration
-I'm open to full-stack work, API development, dashboards, and database-backed systems.  
-I like clear scope, clean delivery, and code that stays easy to maintain.
+I am open to full stack work API development dashboards AI agent automation and database backed systems. I like clear scope clean delivery and code that stays easy to maintain.
 
 **Best ways to reach me:**
 1. **WhatsApp:** [+92 320 8050617](https://wa.me/923208050617)  
