@@ -133,8 +133,8 @@ I am a full stack web developer who builds fast and reliable web applications wi
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="26" alt="stats" /> GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFC107&icon_color=FFC107&text_color=E8E8E8&ring_color=FFC107)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNiazAli&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFC107&text_color=E8E8E8&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNiazAli&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNiazAli&hide_border=true&background=0D1117&ring=FFC107&fire=FFC107&currStreakLabel=FFC107)
 
 </div>
