@@ -163,8 +163,6 @@ I am open to full stack work API development dashboards AI agent automation and 
 
 <div align="center">
 
-## 💡 Dev Quote
-
 <img src="./assets/dev-quote.svg" alt="Dev Quote" width="100%" />
 
 </div>
