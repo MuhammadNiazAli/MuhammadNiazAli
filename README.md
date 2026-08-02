@@ -1,11 +1,23 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFC107&height=200&section=header&text=Muhammad%20Niaz%20Ali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" />
+
+</div>
+
+<div align="center">
+
 # Hi, I'm Muhammad Niaz Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="hello" />
 ### Full-Stack Web Developer | JavaScript, TypeScript, React | API-First Web Apps
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=FFC107&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Performance+Focused+%7C+Clean+Code;APIs+%7C+Auth+%7C+Databases;AI+Agents+%7C+Automation+%7C+n8n;Dashboards+%7C+Admin+Panels+%7C+3D+Web" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="34" alt="sparkles" />
+
+<br/><br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Freelance%20Work-success?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117&color=2ECC71)
+![Response Time](https://img.shields.io/badge/Response%20Time-Within%2024h-blue?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117&color=3B82F6)
+![Timezone](https://img.shields.io/badge/Timezone-PKT%20(UTC%2B5)-yellow?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0D1117&color=FFC107)
 
 </div>
 
@@ -146,6 +158,17 @@ I am a full stack web developer who builds fast and reliable web applications wi
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt="analytics" /> GitHub Analytics
+<div align="center">
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadNiazAli&label=Public%20Repos&query=%24.public_repos&color=FFC107&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/MuhammadNiazAli?label=Followers&color=FFC107&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadNiazAli&label=Profile%20Views&color=FFC107&style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" alt="trophies" /> GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
 
@@ -162,6 +185,8 @@ I am open to full stack work API development dashboards AI agent automation and 
 ---
 
 <div align="center">
+
+
 
 <img src="./assets/dev-quote.svg" alt="Dev Quote" width="100%" />
 
