@@ -146,6 +146,32 @@ I am a full stack web developer who builds fast and reliable web applications wi
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt="analytics" /> GitHub Analytics
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadNiazAli&theme=github_dark" alt="Profile Details" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadNiazAli&theme=github_dark" alt="Repo Stats" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadNiazAli&theme=github_dark" alt="Most Commit Language" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadNiazAli&theme=github_dark&utcOffset=5" alt="Productive Time" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" alt="trophies" /> GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
 
@@ -162,6 +188,8 @@ I am open to full stack work API development dashboards AI agent automation and 
 ---
 
 <div align="center">
+
+
 
 <img src="./assets/dev-quote.svg" alt="Dev Quote" width="100%" />
 
