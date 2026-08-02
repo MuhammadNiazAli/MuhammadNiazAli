@@ -158,3 +158,31 @@ I am open to full stack work API development dashboards AI agent automation and 
 1. **WhatsApp:** [+92 320 8050617](https://wa.me/923208050617)  
 2. **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)  
 3. **LinkedIn:** [Muhammad Niaz Ali](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
+
+---
+
+<div align="center">
+
+## 💡 Dev Quote
+
+<table>
+<tr>
+<td align="left" width="600">
+
+<br/>
+
+> *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+<div align="right">
+— John Johnson
+</div>
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
