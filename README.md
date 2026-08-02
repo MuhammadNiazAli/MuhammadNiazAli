@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFC107&height=200&section=header&text=Muhammad%20Niaz%20Ali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFC107&height=200&section=header&text=Muhammad%20Niaz%20Ali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20and%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
@@ -56,6 +56,39 @@ Fast shipping fewer surprises.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="about" /> About Me
 I am a full stack web developer who builds fast and reliable web applications with clean interfaces and solid backend systems. I specialize in scalable API development secure authentication flows and structured database design. I also build AI agent automation workflows using tools like n8n and LangChain to connect smart systems together and deliver real business value.
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="26" alt="services" /> Services I Offer
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Web App Development**  
+Full-stack apps with React, Next.js, and Node.js — fast, responsive, production ready.
+
+**🔗 API Development & Integration**  
+Secure REST APIs, third-party integrations, and clean, well-documented endpoints.
+
+**🔐 Authentication & Database Design**  
+NextAuth, Supabase, PostgreSQL, MongoDB — structured schemas and safe auth flows.
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Dashboards & Admin Panels**  
+Data-driven UIs, analytics views, and internal tools tailored to your workflow.
+
+**🤖 AI Agents & Automation**  
+n8n and LangChain powered workflows that connect your tools and save manual work.
+
+**📱 Cross-Platform Mobile Apps**  
+React Native (Expo) apps for iOS and Android from a single codebase.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -186,7 +219,7 @@ I am open to full stack work API development dashboards AI agent automation and 
 
 <div align="center">
 
-
+## 💡 Dev Quote
 
 <img src="./assets/dev-quote.svg" alt="Dev Quote" width="100%" />
 
