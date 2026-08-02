@@ -149,24 +149,9 @@ I am a full stack web developer who builds fast and reliable web applications wi
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt="analytics" /> GitHub Analytics
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadNiazAli&theme=github_dark" alt="Profile Details" />
-</td>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadNiazAli&theme=github_dark" alt="Repo Stats" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadNiazAli&theme=github_dark" alt="Most Commit Language" />
-</td>
-<td width="50%">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadNiazAli&theme=github_dark&utcOffset=5" alt="Productive Time" />
-</td>
-</tr>
-</table>
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadNiazAli&label=Public%20Repos&query=%24.public_repos&color=FFC107&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/MuhammadNiazAli?label=Followers&color=FFC107&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadNiazAli&label=Profile%20Views&color=FFC107&style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -188,8 +173,6 @@ I am open to full stack work API development dashboards AI agent automation and 
 ---
 
 <div align="center">
-
-
 
 <img src="./assets/dev-quote.svg" alt="Dev Quote" width="100%" />
 
