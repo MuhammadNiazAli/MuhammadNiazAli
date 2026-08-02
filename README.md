@@ -165,19 +165,6 @@ I am open to full stack work API development dashboards AI agent automation and 
 
 ## 💡 Dev Quote
 
-<table>
-<tr>
-<td align="left" width="600" bgcolor="#ffffff">
-
-<br/>
-
-<i>&ldquo;First, solve the problem. Then, write the code.&rdquo;</i>
-
-<br/>
-<br/>
-
-</td>
-</tr>
-</table>
+<img src="./assets/dev-quote.svg" alt="Dev Quote" width="100%" />
 
 </div>
