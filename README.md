@@ -167,18 +167,13 @@ I am open to full stack work API development dashboards AI agent automation and 
 
 <table>
 <tr>
-<td align="left" width="600">
+<td align="left" width="600" bgcolor="#ffffff">
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."*
+<i>&ldquo;First, solve the problem. Then, write the code.&rdquo;</i>
 
 <br/>
-
-<div align="right">
-— John Johnson
-</div>
-
 <br/>
 
 </td>
