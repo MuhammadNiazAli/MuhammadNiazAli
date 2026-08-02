@@ -146,17 +146,6 @@ I am a full stack web developer who builds fast and reliable web applications wi
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt="analytics" /> GitHub Analytics
-<div align="center">
-
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMuhammadNiazAli&label=Public%20Repos&query=%24.public_repos&color=FFC107&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/MuhammadNiazAli?label=Followers&color=FFC107&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadNiazAli&label=Profile%20Views&color=FFC107&style=for-the-badge&labelColor=0D1117)
-
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" alt="trophies" /> GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
 
