@@ -1,24 +1,31 @@
-<svg width="928" height="210" viewBox="0 0 928 210" xmlns="http://www.w3.org/2000/svg">
+<svg width="620" height="190" viewBox="0 0 620 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
   <!-- Outer dark background -->
-  <rect x="0" y="0" width="928" height="210" fill="#0d1117"/>
+  <rect x="0" y="0" width="620" height="190" fill="#0d1117"/>
 
   <!-- Header -->
-  <text x="24" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f0f6fc">
+  <text x="24" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f0f6fc">
     💡  Dev Quote
   </text>
-  <line x1="0" y1="52" x2="928" y2="52" stroke="#30363d" stroke-width="1"/>
+  <rect x="24" y="42" width="86" height="3" rx="1.5" fill="#3b82f6"/>
+  <line x1="0" y1="56" x2="620" y2="56" stroke="#30363d" stroke-width="1"/>
 
-  <!-- White card -->
-  <rect x="16" y="70" width="896" height="122" rx="14" ry="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <!-- White card, sized to content -->
+  <rect x="16" y="74" width="588" height="98" rx="14" ry="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1" filter="url(#cardShadow)"/>
 
   <!-- Opening quote mark -->
-  <text x="44" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" fill="#3b82f6">&#8220;</text>
+  <text x="38" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#3b82f6">&#8220;</text>
 
   <!-- Quote text -->
-  <text x="80" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-style="italic" fill="#1f2328">
+  <text x="70" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17.5" font-style="italic" fill="#1f2328">
     First, solve the problem. Then, write the code.
   </text>
 
   <!-- Closing quote mark -->
-  <text x="655" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" fill="#3b82f6">&#8221;</text>
+  <text x="520" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#3b82f6">&#8221;</text>
 </svg>
