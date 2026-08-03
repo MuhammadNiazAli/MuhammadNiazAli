@@ -6,6 +6,12 @@
 
 <div align="center">
 
+<img src="./assets/banner.png" alt="Banner" width="100%" />
+
+</div>
+
+<div align="center">
+
 # Hi, I'm Muhammad Niaz Ali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="hello" />
 ### Full-Stack Web Developer | JavaScript, TypeScript, React | API-First Web Apps
 
@@ -218,6 +224,7 @@ I am open to full stack work API development dashboards AI agent automation and 
 ---
 
 <div align="center">
+
 
 <img src="./assets/dev-quote.svg" alt="Dev Quote" width="100%" />
 
