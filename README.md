@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.gif" alt="cat" width="100%" />
+<img src="./assets/cat.gif" alt="banner" width="100%" />
 
 </div>
 
