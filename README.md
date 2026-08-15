@@ -29,8 +29,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFC107&height=3&section=footer" width="100%" />
-
 <div align="center">
 
 <table>
@@ -60,12 +58,12 @@ Fast shipping fewer surprises.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC107,100:0D1117&height=3&section=header" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="about" /> About Me
 I am a full stack web developer who builds fast and reliable web applications with clean interfaces and solid backend systems. I specialize in scalable API development secure authentication flows and structured database design. I also build AI agent automation workflows using tools like n8n and LangChain to connect smart systems together and deliver real business value.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFC107&height=3&section=footer" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="26" alt="services" /> Services I Offer
 
@@ -98,7 +96,7 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC107,100:0D1117&height=3&section=header" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" alt="what-i-build" /> What I Build
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Dashboards admin panels and data driven UIs
@@ -108,7 +106,7 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 - <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f1.png" width="20" alt="react-native" /> Cross platform mobile apps with React Native
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="3d" /> Interactive 3D web experiences when needed
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFC107&height=3&section=footer" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="26" alt="working" /> Currently Working On
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" alt="star" /> Full-stack projects at **eTechViral**
@@ -118,13 +116,13 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Performance code clarity and better DX
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="sparkles" /> Open-source work and consistent learning
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC107,100:0D1117&height=3&section=header" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="26" alt="contact" /> Contact
 - **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)
 - **Phone:** [+92 320 8050617](https://wa.me/923208050617)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFC107&height=3&section=footer" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="22" alt="connect" /> Connect With Me
 <div align="center">
@@ -143,13 +141,9 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC107,100:0D1117&height=3&section=header" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="26" alt="tech" /> Tech Stack
-
-<div align="center">
-<sub>Frontend</sub>
-</div>
 
 <div align="center">
 
@@ -166,15 +160,6 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=ffffff)](https://threejs.org/)
 [![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-111111?style=for-the-badge&logo=react&logoColor=61DAFB)](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 [![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=ffffff)](https://www.khronos.org/webgl/)
-
-</div>
-
-<div align="center">
-<sub>Backend & Databases</sub>
-</div>
-
-<div align="center">
-
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff)](https://nestjs.com/)
@@ -185,15 +170,6 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=ffffff)](https://supabase.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-
-</div>
-
-<div align="center">
-<sub>Mobile, AI & Automation</sub>
-</div>
-
-<div align="center">
-
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=ffffff)](https://n8n.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=ffffff)](https://www.langchain.com/)
@@ -202,7 +178,7 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFC107&height=3&section=footer" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="26" alt="stats" /> GitHub Stats
 <div align="center">
@@ -220,18 +196,7 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Snake.png" width="26" alt="snake" /> Contribution Snake
-<div align="center">
-
-<!--START_SECTION:waka-->
-<img src="https://raw.githubusercontent.com/MuhammadNiazAli/MuhammadNiazAli/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%" />
-<!--END_SECTION:waka-->
-
-<sub>⚙️ Animated automatically every day by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — see setup note below.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC107,100:0D1117&height=3&section=header" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" alt="trophies" /> GitHub Trophies
 <div align="center">
@@ -240,7 +205,7 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFC107&height=3&section=footer" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt="analytics" /> GitHub Analytics
 <div align="center">
@@ -251,7 +216,7 @@ React Native (Expo) apps for iOS and Android from a single codebase.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC107,100:0D1117&height=3&section=header" width="100%" />
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="26" alt="collab" /> Collaboration
 I am open to full stack work API development dashboards AI agent automation and database backed systems. I like clear scope clean delivery and code that stays easy to maintain.
@@ -267,6 +232,10 @@ I am open to full stack work API development dashboards AI agent automation and 
 
 <img src="./assets/dev-quote.svg" alt="Dev Quote" width="100%" />
 
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FFC107&height=120&section=footer" width="100%" />
+<!--START_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/MuhammadNiazAli/MuhammadNiazAli/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%" />
+<!--END_SECTION:waka-->
+
+</div>
