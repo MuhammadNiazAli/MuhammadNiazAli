@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/snackgame.gif" alt="banner" width="80%" />
+<img src="./assets/home.gif" alt="banner" width="100%" />
 
 </div>
 
