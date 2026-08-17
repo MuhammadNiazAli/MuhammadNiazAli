@@ -236,7 +236,7 @@ I am open to full stack work API development dashboards AI agent automation and 
 
 <table>
 <tr>
-<td width="50%"><img src="./assets/gitcat.gif" alt="Snack" width="100%" /></td>
+<td width="50%"><img src="./assets/bugs.gif" alt="Snack" width="100%" /></td>
 <td width="50%"><img src="./assets/fire.gif" alt="Chess" width="100%" /></td>
 </tr>
 </table>
