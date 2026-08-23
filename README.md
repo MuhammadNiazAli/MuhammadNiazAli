@@ -8,6 +8,12 @@
 
 <img src="./assets/home.gif" alt="banner" width="100%" />
 
+<br/><br/>
+
+<a href="https://www.dropbox.com/scl/fi/mx4n1t5w93gevf36hhrum/resume.pdf?rlkey=fa1b6c2axq6u5dc7gdjiyax4q&st=tkaetgk3&dl=1">
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-FFC107?style=for-the-badge&logoColor=000000&labelColor=0D1117" height="100" alt="Download Resume" />
+</a>
+
 </div>
 
 <div align="center">
