@@ -78,13 +78,13 @@ I am a full stack web developer who builds fast and reliable web applications wi
 <td width="50%" valign="top">
 
 **🌐 Web App Development**
-Full-stack apps with React, Next.js, and Node.js — fast, responsive, production ready.
+Full-stack apps with React, Next.js, and Node.js fast, responsive, production ready.
 
 **🔗 API Development & Integration**
 Secure REST APIs, third-party integrations, and clean, well-documented endpoints.
 
 **🔐 Authentication & Database Design**
-NextAuth, Supabase, PostgreSQL, MongoDB — structured schemas and safe auth flows.
+NextAuth, Supabase, PostgreSQL, MongoDB structured schemas and safe auth flows.
 
 </td>
 <td width="50%" valign="top">
