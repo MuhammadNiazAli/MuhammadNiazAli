@@ -243,7 +243,7 @@ I am open to full stack work API development dashboards AI agent automation and 
 <table>
 <tr>
 <td width="50%"><img src="./assets/coding.gif" alt="Snack" width="100%" /></td>
-<td width="50%"><img src="./assets/work.gif" alt="Chess" width="100%" /></td>
+<td width="50%"><img src="./assets/work.webp" alt="Chess" width="100%" /></td>
 </tr>
 </table>
 
