@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FFC107,100:0D1117&height=220&section=header&text=Muhammad%20Niaz%20Ali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20and%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#FCAA01&height=220&section=header&text=Muhammad%20Niaz%20Ali&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20and%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="./assets/home.gif" alt="banner" width="100%" />
+<img src="./assets/me.gif" alt="banner" width="100%" />
 
 <br/><br/>
 
