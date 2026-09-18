@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FCA801&height=180&section=header&text=Muhammad%20Niaz%20Ali&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Web%20Developer&descAlignY=68&descSize=16" width="100%" />
+<img src="./assets/header.svg" alt="whoami — Muhammad Niaz Ali, Full-Stack Web Developer" width="100%" />
 
 </div>
 
